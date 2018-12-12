@@ -1,5 +1,6 @@
-function a() {
-  return true;
+function getUniqueNames(array) {
+  // your code here
+  return array;
 }
 
-module.exports = a;
+module.exports = getUniqueNames;
