@@ -37,7 +37,7 @@ const mockArray = [
 ];
 
 describe('first.js', () => {
-  it('should return true', () => {
+  xit('should return true', () => {
     const wantedResult = ['John', 'Scott', 'Buzz'];
 
     const result = getUniqueNames(mockArray);

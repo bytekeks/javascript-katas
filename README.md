@@ -14,6 +14,10 @@ npm install
 npm start
 ```
 
+The solution is provided in each `*.solution.js` file.
+
 ## List of problems
 
 * [First array problem](src/arrays/first/)
+* [Second array problem](src/arrays/second/)
+* [Third array problem](src/arrays/third/)
